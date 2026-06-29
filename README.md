@@ -64,11 +64,3 @@ flutter run
 ## Amaç
 
 Bu proje, görme engelli bireylerin çevresel farkındalığını artırmak ve günlük yaşamda bağımsız hareket kabiliyetlerini desteklemek amacıyla geliştirilmiştir.
-
-## Gelecek Geliştirmeler
-
-* Engel algılama sistemi
-* Mesafe tahmini
-* Navigasyon desteği
-* Nesne önceliklendirme
-* Daha gelişmiş model optimizasyonu
